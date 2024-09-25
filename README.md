@@ -1,2 +1,2 @@
 # onetimepad
-Cryptology - Python project
+This program takes a couple plaintexts, takes the binary of this plaintext, takes a randomly-generated binary key, and combines them using XOR to give a ciphertext.
