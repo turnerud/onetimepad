@@ -18,7 +18,7 @@ list_of_p2_chars = list(p2)
 key = []
 p1keylen = len(list_of_p1_chars) * 7
 p2keylen = len(list_of_p2_chars) * 7
-p1counter = 0
+p1counter = 0 
 p2counter = 0
 finalkeylen = max(p1keylen, p2keylen)
 
@@ -62,7 +62,7 @@ cipherp2 = ''.join([str(item) for item in cipherp2list])
 print("The ciphertext of p1 is: ", cipherp1)
 print("The ciphertext of p2 is: ", cipherp2)
 
-# cipherText = ''.join([str(item) for item in cipherTextChars])
+
 
                 
                 
